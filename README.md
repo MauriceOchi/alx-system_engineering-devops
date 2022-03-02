@@ -1,1 +1,1 @@
-My readme
+Repo for shell basics
